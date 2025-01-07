@@ -4,7 +4,7 @@
 
 I enjoy the puzzles on the website and I think they are interesting, different and fun! The exercises and tasks are structured in a good way, starting from the easier and more basic concepts to the more complex ones. I created this repository to upload my version of coding solutions to some LeetCode problems.
 
-# 🏵🌹 Connect and code with me 🏵🌹
+# 🏵🌹 Connect and code with me 🏵🌹 
 
 If you want to connect: 🌼 [this is my LeetCode profile, click here](https://leetcode.com/grkarabelyova/)
 
